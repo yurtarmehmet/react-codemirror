@@ -25,7 +25,7 @@
     "happiness": "^7.1.2",
     "react": "^15.5.3",
     "react-dom": "^15.5.3",
-    "react-component-gulp-tasks": "^0.7.7"
+    "react-component-gulp-tasks": "^0.7.7",
     "create-react-class": "^15.5.1"
   },
   "peerDependencies": {
